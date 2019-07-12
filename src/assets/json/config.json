@@ -1,0 +1,9 @@
+{
+	 "port":3000,
+	 "envMode": "staging",
+	 "api_url":"http://182.76.98.134",
+	 "api_token" : "aforetechnical@321!",
+	 "image_url":"http://182.76.98.134/stagingclassgenie_node_api/",
+	 "restrictedArea" : ["/accountsetting","/profile"],
+	 "server_path":"http://182.76.98.134/stagingclassgenie_node_api/assets/local_images/"
+}

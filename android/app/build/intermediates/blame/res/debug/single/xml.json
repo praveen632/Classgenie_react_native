@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\exploded-aar\\Classgenie\\react-native-image-picker\\unspecified\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\xml\\preferences.xml"
+    }
+]

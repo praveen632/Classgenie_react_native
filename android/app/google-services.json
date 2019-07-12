@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458889188965",
+    "firebase_url": "https://classgenie-371ee.firebaseio.com",
+    "project_id": "classgenie-371ee",
+    "storage_bucket": "classgenie-371ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458889188965:android:29fe7b9a5475d678",
+        "android_client_info": {
+          "package_name": "com.classgenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458889188965-m62urenablgss1rrpjsv69sd0cqihppt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrWO8MUfxjqQ83wdGIY8dI2FkcVIUy0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

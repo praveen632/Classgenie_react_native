@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\oval_marker.png",
+        "source": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\exploded-aar\\Classgenie\\react-native-mp-android-chart\\unspecified\\res\\drawable-nodpi-v4\\oval_marker.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\rectangle_marker.png",
+        "source": "C:\\xampp\\htdocs\\Classgenie\\android\\app\\build\\intermediates\\exploded-aar\\Classgenie\\react-native-mp-android-chart\\unspecified\\res\\drawable-nodpi-v4\\rectangle_marker.png"
+    }
+]

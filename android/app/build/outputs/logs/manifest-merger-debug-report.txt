@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:4:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:5:1-76
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:5:18-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:6:1-73
+MERGED from [com.facebook.react:react-native:0.52.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:6:18-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:7:1-62
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:7:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:8:1-74
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:8:18-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:9:1-77
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:9:18-74
+uses-permission#android.permission.VIBRATE
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:10:1-62
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:10:18-59
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:11:2-90
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:11:19-88
+uses-sdk
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:14:6-16:41
+MERGED from [com.android.support:multidex:1.0.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [Classgenie:react-native-share:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-share\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-document-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-document-picker\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-fcm:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-fcm\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [Classgenie:react-native-video:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-video\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [Classgenie:react-native-splash-screen:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-splash-screen\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-pdf:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-pdf\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\3.0.0-beta.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-mp-android-chart:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-mp-android-chart\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Classgenie:react-native-fetch-blob:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-fetch-blob\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:19:5-53:19
+MERGED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.8.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [Classgenie:react-native-splash-screen:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-splash-screen\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [Classgenie:react-native-fetch-blob:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-fetch-blob\unspecified\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.52.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:21:7-39
+	android:supportsRtl
+		ADDED from [Classgenie:react-native-splash-screen:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-splash-screen\unspecified\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:23:7-33
+	android:icon
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:22:7-41
+	android:theme
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:24:7-38
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:20:7-38
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:27:5-127
+	android:resource
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:27:87-125
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:27:16-86
+service#com.evollu.react.fcm.MessagingService
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:29:4-33:14
+	android:enabled
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:29:66-88
+	android:exported
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:29:89-112
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:29:13-65
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:30:6-32:22
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:31:8-68
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:31:16-66
+service#com.evollu.react.fcm.InstanceIdService
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:35:4-39:14
+	android:exported
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:35:67-91
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:35:13-66
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:36:6-38:22
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:37:8-70
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:37:16-68
+activity#com.classgenie.MainActivity
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:41:7-51:18
+	android:label
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:43:9-41
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:45:9-51
+	android:configChanges
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:44:9-79
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:42:9-37
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:46:9-50:25
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:47:13-65
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:47:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:48:13-73
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:48:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:49:6-70
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:49:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:52:7-84
+	android:name
+		ADDED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:52:17-81
+provider#android.support.v4.content.FileProvider
+ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [Classgenie:react-native-image-picker:unspecified] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\Classgenie\react-native-image-picker\unspecified\AndroidManifest.xml:18:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.8.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.8.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.8.0\AndroidManifest.xml:29:13-82
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\AndroidManifest.xml:50:22-86
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.8.0\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.8.0\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.8.0\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.8.0\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\xampp\htdocs\Classgenie\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:26:9-47
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:1:1-55:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\xampp\htdocs\Classgenie\android\app\src\main\AndroidManifest.xml:1:1-55:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
